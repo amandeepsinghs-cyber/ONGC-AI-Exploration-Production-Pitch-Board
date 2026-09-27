@@ -67,7 +67,7 @@
 │  Stage 05: The Visceral Metaphor — The Jenga Organization (Fragile vs Fortified)         │
 ├──────────────────────────────────────────────────────────────────────────────────────────┤
 │  ACT II: GROUNDED PROOF & DETERMINISTIC PHYSICS (SLIDES 06 – 09)                         │
-│  Stage 06: Grounded Proof Architecture — Headless Splicing Agent (ADK, Registry, Run)    │
+│  Stage 06: Sovereign Reference Architecture (Parked · Replaced by Sagar Drishti Demo)    │
 │  Stage 07: Live Demo Part 1 — Multimodal GCS Search (2.1s) & Dynamic A2UI Canvas        │
 │  Stage 08: Live Demo Part 2 — Deterministic Physics: Kansas Well A-12 (2.9cm Variance)   │
 │  Stage 09: 4 Boardroom Takeaways & BigQuery SHA-256 Sovereign Cryptographic Ledger      │
