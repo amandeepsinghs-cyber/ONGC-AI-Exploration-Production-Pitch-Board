@@ -119,28 +119,28 @@
 
 ---
 
-## Stage 01: The Capital Reality — "In Energy, There Are No Low-Consequence Mistakes"
+## Stage 01: The Capital Reality — "Upstream E&P is a High-Stakes Business With No Room for Error"
 
-### 1. Ground Truth Code & Copy (`slides/slide_01_capital_reality.html` / `deck.html`)
-* **Kicker:** `THE CAPITAL REALITY`
-* **Display Headline:** `In energy, there are no low-consequence mistakes.`
-* **Narrative Lead:** `Oil & gas is an unforgiving, high-capital business. Multi-crore losses rarely stem from visible catastrophes—they leak quietly every single day through routine operational friction across siloed disciplines.`
+### 1. Ground Truth Code & Copy (`working_deck/pages/page_01.html`)
+* **Kicker:** `THE CAPITAL REALITY // HIGH CAPEX · HIGH RISK · HIGH TECH`
+* **Display Headline:** `Upstream E&P is a high-stakes business with no room for error.`
+* **Narrative Lead:** `High capex, high risk, high tech—and high reward. In exploration and production, every technical decision commits hundreds of crores into the ground and seabed under extreme geological uncertainty.`
 * **The 4 Monumental Capital Numbers — THE COST OF BEING WRONG (Heroic Data Floating on Canvas · Zero Boxes):**
   1. **₹200–500 Cr — Single Deepwater Well:** Rig spread rate, casing program, wireline logging suite & marine fleet sunk before first commercial oil is confirmed.
-  2. **Billions — Acreage & Farm-In Bidding:** Multi-year concession commitments and PSC acreage valuations negotiated against fragmented, legacy well archives.
-  3. **₹30L – 1.2 Cr — Single Idle Rig Day (NPT):** Offshore drilling spread idling while petrophysicists and drilling superintendents manually reconcile wireline logs.
-  4. **₹25–100 Cr — One Lost Refinery Day:** CDU/FCC unplanned shutdown or off-spec crude run gross profit margin loss per operating day.
+  2. **> ₹100 Cr — Typical 3D Seismic Survey:** Regional ocean bottom node (OBN) and streamer acquisition campaign plus multi-month compute-intensive depth migration.
+  3. **> ₹1 Cr / Day — Single Idle Rig Day (NPT):** Offshore drilling spread burn rate idling while subsurface and drilling crews manually reconcile stuck-pipe or log anomalies.
+  4. **₹250–600 Cr — Offshore Block MWP:** Mandatory Minimum Work Programme committed to DGH for 3D seismic, exploratory wells & bank guarantees per offshore concession.
 * **The Counterweight — THE VALUE OF BEING RIGHT (3 Upside Numbers · same visual treatment, no boxes):**
   1. **~1 in 3 — Exploration Success Rate:** Roughly two of every three exploration wells find nothing commercial. Moving that ratio by a single well is worth more than any efficiency programme in this deck.
   2. **+1% Recovery Factor — Millions of Barrels:** On a mature field, one percentage point of recovery is oil already discovered, already leased, already paid for—and never produced.
   3. **Bypassed Pay — Zones Logged as Water:** Intervals written off by 1990s cut-offs and vintage tool response, re-readable today against modern petrophysics.
-* **Levers evidenced on this stage:** rig day and refinery day → **Uptime**. Well cost and the JV bid → **Integrity**. All three upside numbers → **Recovery**. Productivity is deliberately absent here; it arrives with the personas, not with the capital numbers. **If a board member can only recall one thing from Stage 01, it should be that two of the seven numbers count upward.**
+* **Levers evidenced on this stage:** rig day and seismic survey → **Uptime & Precision**. Well cost and offshore block MWP → **Integrity & Capital Discipline**. All three upside numbers → **Recovery**. Productivity is deliberately absent here; it arrives with the personas, not with the capital numbers. **If a board member can only recall one thing from Stage 01, it should be that two of the seven numbers count upward.**
 * **Editorial Pivot Question:** `Where does this money actually disappear—and what never arrives at all?`
 * **Transition Text:** `It rarely vanishes in headline-grabbing catastrophes. It leaks quietly through routine 2-hour handover lags between disciplines—until latent micro-gaps align. And the larger number is the one no ledger records: the barrel we never found because the data never agreed with itself.`
 * **Transition Link:** `The Swiss Cheese Model of Compounding Gaps (Slide 02) →`
 
 ### 2. Core Strategic Intent & Boardroom Point
-* **The Goal:** Speak directly in the native language of the Board: capex, day-rates, gross refining margins, exploration exposure—**and reserves replacement.**
+* **The Goal:** Speak directly in the native language of the Board: capex, day-rates, seismic commitments, exploration exposure—**and reserves replacement.**
 * **The Boardroom Directive ("State the Obvious"):** Acknowledge that the CMD and CEO know these numbers intimately. The point is not teaching them oil and gas, but isolating the critical question: *Where does capital actually bleed?* It bleeds in tiny, routine fractions across unmonitored human handovers.
 * **The Second Directive ("State What Nobody Counts"):** A cost overrun has an owner, a variance report and a review meeting. A prospect that was ranked second when it should have been first has none of those things. **Every board tracks the cost of being wrong; almost none of them track the cost of not being right.** Stage 01 must plant both, because Stage 02 will show they have the same cause.
 
@@ -155,9 +155,9 @@
 > 
 > In energy, there is no such thing as a low-consequence mistake.
 > 
-> When you drill a single deepwater exploratory well, you commit ₹200 to ₹500 Crore into the seabed before you know if commercial hydrocarbons exist. In national acreage bidding and joint venture farm-ins, billions of dollars hinge on whether your subsurface team caught the subtle stratigraphic pinch-out on an offset block.
+> When you drill a single deepwater exploratory well, you commit ₹200 to ₹500 Crore into the seabed before you know if commercial hydrocarbons exist. In regional exploration, launching a typical 3D seismic campaign commits well over ₹100 Crore in ocean bottom nodes, streamer vessels, and compute-intensive depth imaging.
 > 
-> When an offshore rig sits idle on standby, Non-Productive Time burns ₹30 Lakh to over ₹1.2 Crore every single day. And in downstream refining, an unscheduled shutdown of a Crude Distillation Unit or Fluid Catalytic Cracker bleeds ₹25 to ₹100 Crore in gross profit margin per operating day.
+> When an offshore rig sits idle on standby waiting on logs or downhole tool anomalies, Non-Productive Time burns upwards of ₹1 Crore every single day. And in offshore exploration bidding, securing a block commits ₹250 to ₹600 Crore in mandatory Minimum Work Programmes and statutory bank guarantees to DGH.
 > 
 > And let me state the other half, which our industry measures far less carefully: **there is no such thing as a low-consequence omission either.** Two out of every three exploration wells find nothing commercial. One percentage point of recovery factor on a mature field is millions of barrels you have already discovered, already leased and already paid for—and will never produce. Somewhere in your archive there are pay zones logged as water in the 1990s that modern petrophysics would read differently today.
 > 
