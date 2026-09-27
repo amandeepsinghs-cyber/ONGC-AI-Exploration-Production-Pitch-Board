@@ -124,7 +124,9 @@
 ### 1. Ground Truth Code & Copy (`working_deck/pages/page_01.html`)
 * **Kicker:** `THE CAPITAL REALITY // HIGH CAPEX · HIGH RISK · HIGH TECH`
 * **Display Headline:** `Upstream E&P is a high-stakes business with no room for error.`
-* **Narrative Lead:** `High capex, high risk, high tech—and high reward. In exploration and production, every technical decision commits hundreds of crores into the ground and seabed under extreme geological uncertainty.`
+* **Narrative Lead (Two Distinct Editorial Beats):**
+  - *Beat 1 (The Baseline Nature of Upstream):* `Every technical decision commits hundreds of crores under extreme operational and geological uncertainty.`
+  - *Beat 2 (The Systemic Enterprise Loss):* `When operational blindspots occur, they compound across the organisation—bleeding tens of thousands of crores in lost capital, deferred production, and stranded reserves.`
 * **The 4 Monumental Capital Numbers — THE COST OF BEING WRONG (Heroic Data Floating on Canvas · Zero Boxes):**
   1. **₹200–500 Cr — Single Deepwater Well:** Rig spread rate, casing program, wireline logging suite & marine fleet sunk before first commercial oil is confirmed.
   2. **> ₹100 Cr — Typical 3D Seismic Survey:** Regional ocean bottom node (OBN) and streamer acquisition campaign plus multi-month compute-intensive depth migration.
@@ -158,6 +160,8 @@
 > When you drill a single deepwater exploratory well, you commit ₹200 to ₹500 Crore into the seabed before you know if commercial hydrocarbons exist. In regional exploration, launching a typical 3D seismic campaign commits well over ₹100 Crore in ocean bottom nodes, streamer vessels, and compute-intensive depth imaging.
 > 
 > When an offshore rig sits idle on standby waiting on logs or downhole tool anomalies, Non-Productive Time burns upwards of ₹1 Crore every single day. And in offshore exploration bidding, securing a block commits ₹250 to ₹600 Crore in mandatory Minimum Work Programmes and statutory bank guarantees to DGH.
+> 
+> Every technical decision commits hundreds of crores under extreme operational and geological uncertainty. And when operational blindspots occur, they compound across the organisation—bleeding tens of thousands of crores in lost capital, deferred production, and stranded reserves.
 > 
 > And let me state the other half, which our industry measures far less carefully: **there is no such thing as a low-consequence omission either.** Two out of every three exploration wells find nothing commercial. One percentage point of recovery factor on a mature field is millions of barrels you have already discovered, already leased and already paid for—and will never produce. Somewhere in your archive there are pay zones logged as water in the 1990s that modern petrophysics would read differently today.
 > 
