@@ -101,3 +101,6 @@ data/persona_research.json
 #     git config core.hooksPath .githooks
 # Override for a single commit with:
 #     ALLOW_CONFIDENTIAL=1 git commit ...
+
+# 8. Quarantined Archive
+_archive/

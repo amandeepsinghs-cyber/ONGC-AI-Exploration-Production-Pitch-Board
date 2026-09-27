@@ -92,9 +92,9 @@
 * **Trust & Sovereign Chips:** 
   - `100% MEITY SOVEREIGN DATA RESIDENCY`
   - `EXECUTIVE BRIEFING // FOR CMD & CEO`
-* **Title Kicker:** `STRATEGIC TRANSFORMATION BLUEPRINT // ENERGY ENTERPRISE GIANTS`
-* **Master Display Headline:** `Agentic Transformation for India’s Energy Giants`
-* **Executive Tagline:** `Operationalizing AI from the control room to the boardroom.`
+* **Title Kicker:** `STRATEGIC TRANSFORMATION BLUEPRINT // OIL & NATURAL GAS CORPORATION (ONGC)`
+* **Master Display Headline:** `Agentic Transformation for India’s Energy Security`
+* **Executive Tagline:** `Operationalising AI in Exploration & Production from the control room to the boardroom.`
 * **Three Strategic Value Pillars:**
   1. **Autonomous Telemetry Splicing:** Kansas Well A-12 Grounded Proof: 2.9 cm variance.
   2. **Dual-Engine Governance:** Zero LLM math hallucination; 100% deterministic physics.
