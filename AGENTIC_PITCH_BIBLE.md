@@ -342,40 +342,27 @@
 
 ---
 
-# ACT II: GROUNDED PROOF & DETERMINISTIC PHYSICS (SLIDES 06 – 09)
+# ACT II: GROUNDED PROOF & LIVE DEMONSTRATION (SAGAR DRISHTI)
 
 ---
 
-## Stage 06: Grounded Proof Architecture — Headless Splicing Sentinel (ADK, Registry, Cloud Run)
+## Stage 05: Live Operational Demonstration — Sagar Drishti AI Agent (Well MN-DW-01)
 
-### 1. Strategic Rationale & Architectural Blueprint
-* **The Problem:** Kansas Well A-12 wireline logging runs (Run 1 and Run 2) have depth discrepancies due to cable stretch. Rig sits idle waiting for manual petrophysical alignment.
-* **The Solution:** A surgical autonomous Splicing Agent built using the Google Agent Development Kit (ADK), cataloged in the Google Agent Registry, and deployed as a headless microservice on Cloud Run.
-* **Enterprise Independence:**
-  - *Command Center:* Governed, monitored, and audited centrally via Gemini Enterprise.
-  - *Headless Interoperability:* Consumable from Schlumberger Petrel, Baker Hughes JewelSuite, a custom Python notebook, or automated rig data webhooks via REST API.
+### 1. Strategic Rationale & Deepwater Context
+* **Operational Setting:** Offshore Deepwater Drilling on Well **MN-DW-01** (Mahanadi Basin Deepwater Exploration).
+* **Live Deployment:** Production service hosted on Google Cloud Run:  
+  `https://sagar-drishti-248430093579.us-central1.run.app`
+* **The Core Message:** A connected worker—one engineer, conversing in natural domain language—gets the rock, the pressure, the offset history, and the compliance paperwork in seconds, and remains the sole decision maker.
 
----
-
-## Stage 07: Live Demo Part 1 — Multimodal GCS Discovery & Dynamic A2UI Canvas
-
-### 1. Demonstration Steps & Executive Telemetry
-1. The engineer types a plain natural language request into the Gemini Enterprise console: *"Find all un-spliced wireline runs for Kansas Well A-12 and show the logs."*
-2. **Search Acceleration:** In 2.1 seconds, the agent executes an enterprise search across thousands of sovereign Cloud Storage files, verifies IAM access permissions (`SUB-SURFACE-PETRO-L3`), and identifies un-spliced runs. Search time drops from 3 hours to 2.1 seconds.
-3. **Agent-to-User-Interface (A2UI):** Because petrophysics is visual, the agent dynamically generates a 4-track vector log canvas (Gamma Ray, Depth MD, Resistivity, Sonic) directly inside the executive interface.
-
----
-
-## Stage 08: Live Demo Part 2 — Deterministic Physics: Kansas Well A-12 (2.9 cm Variance)
-
-### 1. Grounded Mathematical Execution
-* **The Physical Math in Action:**
-  - Cable tension stretched the wireline cable in Run 2, causing a 1.48-meter depth shift over a 1,200-meter wellbore.
-  - The petrophysicist triggers the Splicing Sentinel.
-  - The agent executes a normalized SciPy Pearson cross-correlation equation across a 40-meter sliding window:
-    $$r = \frac{\sum (x - \bar{x})(y - \bar{y})}{\sqrt{\sum(x-\bar{x})^2 \sum(y-\bar{y})^2}} = 0.9899$$
-  - In **seconds**, it returns the best-fit shift: **+1.48 meters**, with an alignment variance of only **2.9 centimeters**.
-  - The curves snap into permanent geological alignment. Rig standby is eliminated. Zero neural hallucination.
+### 2. The 4-Beat Live Demonstration Flow (Run of Show)
+1. **Act 1 // Rock at the Bit (4,120 m MD):**
+   - Ingests real-time telemetry and offset logs. Identifies formation boundaries and lithology shifts **45 minutes before drill cuttings reach surface shakers**.
+2. **Act 2 // The Window Closes (4,145m ➔ 4,172 m MD):**
+   - Standpipe pressure fluctuates and torque spikes. The agent proactively interrupts the engineer *before* a catastrophic gas kick occurs, preventing the exact ₹45+ Cr NPT disaster modeled on Slide 02.
+3. **Act 3 // Human Decides, Agent Dispatches (4,172 m MD):**
+   - The engineer evaluates the agent's recommended mud weight increase (+0.4 ppg). Upon supervisor sign-off, the agent drafts the MOC memo, notifies the rig floor in seconds, and updates parameters.
+4. **Act 4 // Paperwork & Institutional Learning:**
+   - Casing seat achieved with zero NPT. All actions, sensor readings, and decisions are instantly compiled into the Well Completion Report (WCR) and archived into corporate memory.
 
 ---
 
