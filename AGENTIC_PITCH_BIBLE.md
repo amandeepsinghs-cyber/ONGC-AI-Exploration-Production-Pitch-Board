@@ -173,13 +173,15 @@
 
 ## Stage 02: The Compounding Mechanism — The Swiss Cheese Model of Latent Seams
 
-### 1. Ground Truth Code & Copy (`slides/slide_02_swiss_cheese.html` / `deck.html`)
+### 1. Ground Truth Code & Copy (`working_deck/pages/page_02.html`)
 * **Kicker:** `PROF. JAMES REASON’S SWISS CHEESE MODEL // SYSTEMIC LATENT RISK`
 * **Tactile State Switcher:**
-  - `⚠ Baseline: 4 Aligned Gaps` (Crimson active state)
-  - `🛡 Fortified: Deterministic Plugs Active` (Turquoise sealed state)
-* **Display Headline:** `A major Incident is never a single failure. It’s the quiet alignment of invisible gaps.`
-* **Narrative Lead:** `Rooted in Prof. James Reason’s System Safety model, high-consequence disasters never stem from a single colossal error but a series of missteps and micro vulnerabilities.`
+  - `⚠ Baseline: 4 Aligned Gaps` (Active baseline state)
+  - `🛡 Fortified: Autonomous Agents` (Turquoise sealed state)
+* **Display Headline:** `A major incident is <span class="au-display-grad">never a single failure.</span>`
+* **Subheading:** `It is the quiet alignment of latent micro-vulnerabilities.`
+* **Narrative Lead:** `Today, these vulnerabilities are managed by robust processes and experienced, skilled humans. Since Upstream E&P is half art, half science, experience plays a critical role in the sector.`
+* **Hero 3D Canvas:** Expanded, high-contrast, pure-white 3D Swiss Cheese interactive model (`assets/media/photos/swiss_cheese_clean_baseline_light.jpg` & `fortified_light.jpg`). The 4 micro-operational chips were intentionally removed from the slide UI to avoid visual clutter and elevate the 3D model, leaving the specific 4-seam breakdown for the speaker's spoken narrative delivery.
 * **Three Monumental Executive Truth Shelves:**
   1. **Shelf 1 (Azure Bar):** `PROF. JAMES REASON'S SYSTEM SAFETY PRINCIPLE`  
      *Title:* *"Catastrophe is never a single error. Latent micro-gaps align."*  
@@ -231,7 +233,9 @@
 * **The Consequence Point:** Follow the chain one link past the incident. Latent defect → holes align → critical failure (a wrong belief) → business risk (capital committed) → **growth impeded (reserves not added)**. Stop at the incident and this is a safety pitch. Follow it to the end and it is a growth pitch, with the same evidence.
 
 ### 3. Boardroom Spoken Script (CMD & CEO Track)
-> *"Every Director and Operations Chief in this room knows Prof. James Reason’s System Safety model. High-consequence disasters never stem from a single colossal error. They happen when micro-vulnerabilities align across handovers into an unbroken failure ray.
+> *"Every Director and Operations Chief in this room knows Prof. James Reason’s System Safety model. In high-consequence operations, there is no single point of failure. Today, these vulnerabilities are managed by robust processes and experienced, skilled humans.
+> 
+> Because Upstream E&P is half art and half science, our skilled and experienced workforce plays a critical role in catching these latent vulnerabilities before they align. Disasters only occur when latent micro-vulnerabilities across siloed handovers momentarily slip through and align into an unbroken failure ray.
 > 
 > Let me connect the dots on how a single ₹50 Crore drilling disaster physically happens across four routine handovers:
 > 
